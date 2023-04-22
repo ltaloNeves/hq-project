@@ -19,7 +19,7 @@ function App() {
         <h3>Flash</h3>
         <div className="flash">
           <div>
-            <img src="./img/flash/flash1.png" alt="" /> 
+            <img src="./flash1.png" alt="" /> 
              <br />
              Flash: Seguindo em Frente
              <br /> 
@@ -27,7 +27,7 @@ function App() {
           </div>
 
           <div>
-            <img src="./img/flash/flash2.png" alt="" /> 
+            <img src="./flash2.png" alt="" /> 
              <br />
              Flash: Renascer
              <br /> 
@@ -36,7 +36,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash3.png" alt="" /> 
+            <img src="./flash3.png" alt="" /> 
              <br />
              Flash: O Homem Mais Répido Vivo
              <br /> 
@@ -45,7 +45,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash4.png" alt="" /> 
+            <img src="./flash4.png" alt="" /> 
              <br />
              Flash: No 221
              <br /> 
@@ -54,7 +54,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash5.png" alt="" /> 
+            <img src="./flash5.png" alt="" /> 
              <br />
              Flash: Head to Head with Cicada!
              <br /> 
@@ -63,7 +63,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash6.png" alt="" /> 
+            <img src="./flash6.png" alt="" /> 
              <br />
              Flash: Sozinho Contra os Elementos
              <br /> 
@@ -72,7 +72,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash7.png" alt="" /> 
+            <img src="./flash7.png" alt="" /> 
              <br />
              Flash Renascer
              <br /> 
@@ -81,7 +81,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash8.png" alt="" /> 
+            <img src="./flash8.png" alt="" /> 
              <br />
              Flash: Batman do Inferno pt 1
              <br /> 
@@ -90,7 +90,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash9.png" alt="" /> 
+            <img src="./flash9.png" alt="" /> 
              <br />
              Flash
              <br /> 
@@ -99,7 +99,7 @@ function App() {
 
 
           <div>
-            <img src="./img/flash/flash10.png" alt="" /> 
+            <img src="./flash10.png" alt="" /> 
              <br />
              Flash: O Maior Truque de Todos
              <br /> 
@@ -128,63 +128,63 @@ function App() {
         <div className="cap">
 
         <div>
-            <img src="./img/capitão/cap1.png" alt="" /> 
+            <img src="./cap1.png" alt="" /> 
              <br />
              Capitão America 1
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap2.png" alt="" /> 
+            <img src="./cap2.png" alt="" /> 
              <br />
              Capitão America 19
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap3.png" alt="" /> 
+            <img src="./cap3.png" alt="" /> 
              <br />
              Capitão America: 1
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap4.png" alt="" /> 
+            <img src="./cap4.png" alt="" /> 
              <br />
              Capitão America: All New
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap5.png" alt="" /> 
+            <img src="./cap5.png" alt="" /> 
              <br />
              Capitão America: Sam Wilson
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap6.png" alt="" /> 
+            <img src="./cap6.png" alt="" /> 
              <br />
              Capitão America: Sam Wilson
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap7.png" alt="" /> 
+            <img src="./cap7.png" alt="" />
              <br />
              Capitão America: Sam Wilson
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap8.png" alt="" /> 
+            <img src="./cap8.png" alt="" /> 
              <br />
              Capitão America: 13
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/capitão/cap9.png" alt="" /> 
+            <img src="./cap9.png" alt="" /> 
              <br />
              Capitão America: Sentinela da Liberdade
              <br /> 
@@ -198,70 +198,70 @@ function App() {
         <h3>DC</h3>
         <div className="dc">
           <div>
-            <img src="./img/dc/dc.png" alt="" /> 
+            <img src="./dc.png" alt="" /> 
              <br />
              Batman: Cavaleiro Branco
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc1.png" alt="" /> 
+            <img src=".dc1.png" alt="" /> 
              <br />
              Batman: O Retorno do Cavaleiro das Trevas
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc2.png" alt="" /> 
+            <img src="./dc2.png" alt="" /> 
              <br />
              Liga da Justiça : Novos 52 #1
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc3.png" alt="" /> 
+            <img src="./dc3.png" alt="" /> 
              <br />
              Batman: Harley1s Little Black Book
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc4.png" alt="" /> 
+            <img src="./dc4.png" alt="" /> 
              <br />
              Lex Luthor: Ano de Vilão
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc5.png" alt="" /> 
+            <img src="./dc5.png" alt="" /> 
              <br />
              Universo DC Renascimento
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc6.png" alt="" /> 
+            <img src="./dc6.png" alt="" /> 
              <br />
              Superman: Para o Alto e Avante
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc7.png" alt="" /> 
+            <img src="./dc7.png" alt="" /> 
              <br />
              Liga da Justiça: Unidos Afinal
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>
           <div>
-            <img src="./img/dc/dc8.png" alt="" /> 
+            <img src="./dc8.png" alt="" /> 
              <br />
              Flash: Todos os Seus Passados Lembrados
              <br /> 
              <button><ion-icon name="cart-outline"></ion-icon></button>
           </div>   
           <div>
-            <img src="./img/dc/dc9.png" alt="" /> 
+            <img src="./dc9.png" alt="" /> 
              <br />
              Flash: Quem Lembra do Wally West?
              <br /> 
@@ -275,7 +275,7 @@ function App() {
         <h3>Marvel</h3>
         <div className="marvel">
           <div>
-             <img src="./img/marvel/marvel1.png" alt="" /> 
+             <img src="./marvel1.png" alt="" /> 
              <br />
              Homem-Aranha: Poder e responsabilidade
              <br /> 
@@ -283,7 +283,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel2.png" alt="" /> 
+             <img src="./marvel2.png" alt="" /> 
              <br />
              Vingadores
              <br /> 
@@ -291,7 +291,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel3.png" alt="" /> 
+             <img src="./marvel3.png" alt="" /> 
              <br />
              Capitão America: Até Logo Para uma Lenda Viva
              <br /> 
@@ -299,7 +299,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel4.png" alt="" /> 
+             <img src="./marvel4.png" alt="" /> 
              <br />
              Guerras Secretas: Edição Especial
              <br /> 
@@ -307,7 +307,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel5.png" alt="" /> 
+             <img src="./marvel5.png" alt="" /> 
              <br />
              Homem-Aranha: Miles Morales
              <br /> 
@@ -315,7 +315,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel6.png" alt="" /> 
+             <img src="./marvel6.png" alt="" /> 
              <br />
              Desafio Infinito
              <br /> 
@@ -323,7 +323,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel7.png" alt="" /> 
+             <img src="./marvel7.png" alt="" /> 
              <br />
              O Homem-Aranha & Wolverine 
              <br /> 
@@ -331,7 +331,7 @@ function App() {
           </div>
 
           <div>
-             <img src="./img/marvel/marvel8.png" alt="" /> 
+             <img src="./marvel8.png" alt="" /> 
              <br />
              X-Men
              <br /> 
@@ -340,7 +340,7 @@ function App() {
 
 
           <div>
-             <img src="./img/marvel/marvel9.png" alt="" /> 
+             <img src="./marvel9.png" alt="" /> 
              <br />
              Homem-Aranha: Crise no Campus
              <br /> 
