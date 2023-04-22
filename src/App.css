@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Tilt+Prism&display=swap');
+
+body{
+    background-color: 	#1C1C1C;
+    color: white;
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header button{
+    background-color: rgba(0, 0,0,0);
+    border: solid white;
+}
+header h1{
+    font-size: 100px;
+    margin: 20px;
+    font-family: 'Tilt Prism', cursive;
+}
+
+img{
+    cursor: pointer;
+    height: 200px;
+    width: 160px;
+    margin: 10px;
+    border: solid black 10px;
+
+}
+.dc{
+    height: 350px;
+    margin: 50px;
+    display: flex;
+    overflow: auto;
+    text-align: center;
+
+}
+.flash{
+    height: 350px;
+    text-align: center;
+    margin: 50px;
+    display: flex;
+    overflow: auto;
+
+}
+.marvel{
+    height: 350px;
+   
+    text-align: center;
+
+    margin: 50px;
+    display: flex;
+    overflow: auto;
+
+}
+.cap{    
+    height: 350px;
+    text-align: center;
+    margin: 50px;
+    display: flex;
+    overflow: auto;
+
+}
+button{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;  
+   background-color: #FFD700;
+   border-radius: 10px;
+   font-size: 25px;
+ 
+}
+h2{
+    font-size: 30px;
+    margin: 20px;
+
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    margin: 20px; 
+
+}
